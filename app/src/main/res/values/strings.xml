@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OjalaFuncione</string>
+    <string name="continuar">Continuar</string>
+    <string name="helloWorld">Bienvenido a AppMax</string>
+    <string name="TextoSegunda">Iniciar Sesion</string>
+    <string name="CorreoSeg">Email</string>
+    <string name="ContraSeg">Contraseña</string>
+    <string name="ActSonido">Música</string>
+</resources>
